@@ -1,0 +1,9 @@
+watchdog
+
+portalocker
+
+pytest
+Pillow
+tensorflow==2.11
+nsfw_detector
+deepdanbooru
